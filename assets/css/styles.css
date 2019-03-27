@@ -315,7 +315,7 @@ a.btn:hover {
 }
 .contact-section .img-circle1{
   float:left;
-  transform: rotate(20deg);
+  transform: rotate(0deg);
   height: 160px;
   width: 160;
   position: absolute;
