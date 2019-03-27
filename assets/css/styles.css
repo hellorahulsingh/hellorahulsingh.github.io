@@ -304,7 +304,7 @@ a.btn:hover {
   margin-bottom: 45px;
 }
 .img-circle{
-  transform: rotate(20deg);
+  transform: rotate(0deg);
   height: 180px;
   width: 180px;
   position: absolute;
